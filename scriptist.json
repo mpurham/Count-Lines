@@ -1,0 +1,25 @@
+{
+	"name": "Count Lines",
+	"description": "Get the line count of your text",
+	"version": "1.0.0",
+	"tags": [
+		"count",
+		"length",
+		"size",
+        "line"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "andipaetzold"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/count-lines"
+		}
+	]
+}
